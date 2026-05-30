@@ -1,0 +1,29 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports and temporary files
+*.json
+*.csv
+*.html
+*.pdb
+*.cif
+*.mmcif
+
+# Docker/logs
+*.log
