@@ -32,3 +32,8 @@ Thumbs.db
 !frontend/package.json
 !frontend/package-lock.json
 !frontend/index.html
+
+# Keep essential frontend app files
+!frontend/package.json
+!frontend/package-lock.json
+!frontend/index.html
